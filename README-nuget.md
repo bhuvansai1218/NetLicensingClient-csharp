@@ -1,6 +1,6 @@
 C# wrapper for Labs64 NetLicensing [RESTful API](https://netlicensing.io/wiki/restful-api)
 
-### How to Use
+#### How to Use
 
 This minimal example shows how to trigger validation request using APIKey identification.
 
