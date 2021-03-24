@@ -21,7 +21,7 @@ jobs:
     - name: Build
       run: dotnet build --configuration Release --no-restore
     - name: Publish to NuGet
-      uses: bhuvansai1218/publish-nuget@v2
+      uses: brandedoutcast/publish-nuget@v2
       with:
         PROJECT_FILE_PATH: NetLicensingClient/NetLicensingClient.csproj
         VERSION_REGEX: '^\s*<PackageVersion>(.*)<\/PackageVersion>\s*$'
