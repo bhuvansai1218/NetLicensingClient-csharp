@@ -11,7 +11,7 @@
     <Copyright>© 2010 Labs64 GmbH</Copyright>
     <PackageIconUrl>https://netlicensing.io/img/labs64-avatar-200x200.png</PackageIconUrl>
     <NeutralLanguage>en</NeutralLanguage>
-    <PackageLicenseUrl>https://github.com/Labs64/NetLicensingClient-csharp/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/bhuvansai1218/NetLicensingClient-csharp/blob/master/LICENSE</PackageLicenseUrl>
     <Owners>Labs64</Owners>
     <PackageProjectUrl>https://netlicensing.io</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Labs64/NetLicensingClient-csharp</RepositoryUrl>
