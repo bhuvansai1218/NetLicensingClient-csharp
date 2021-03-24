@@ -6,12 +6,12 @@
     <ReleaseVersion>2.x</ReleaseVersion>
     <PackOnBuild>true</PackOnBuild>
     <PackageId>NetLicensingClient-csharp</PackageId>
-    <PackageVersion>2.4.8</PackageVersion>
+    <PackageVersion>2.5.1</PackageVersion>
     <Authors>Labs64 NetLicensing</Authors>
     <Copyright>© 2010 Labs64 GmbH</Copyright>
     <PackageIconUrl>https://netlicensing.io/img/labs64-avatar-200x200.png</PackageIconUrl>
     <NeutralLanguage>en</NeutralLanguage>
-    <PackageLicenseUrl>https://github.com/bhuvansai1218/NetLicensingClient-csharp/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/Labs64/NetLicensingClient-csharp/blob/master/LICENSE</PackageLicenseUrl>
     <Owners>Labs64</Owners>
     <PackageProjectUrl>https://netlicensing.io</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Labs64/NetLicensingClient-csharp</RepositoryUrl>
